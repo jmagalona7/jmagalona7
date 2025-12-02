@@ -1,5 +1,5 @@
 # 🪴 Hi, I'm Jessamine
-<!-- Information about me --><br>🧭 Aspiring Frontend Software Engineer, working towards building strong analytical skills in data science<br>🏫 Currently studying Computer Science with a focus on Data Science at DeSales University<br>🌱 Actively learning about Java using object-oriented programming (OOP) principles, databases, and data visualization
+<!-- Information about me --><br>🧭 Aspiring Frontend Software Engineer, working towards building strong foundations in frontend development<br>🏫 Currently studying Computer Science at DeSales University<br>🌱 Actively learning about data structures in context of the C++ programming language and web development using HTML, CSS, and JavaScript
 
 
 # 💻 Tech Stack
